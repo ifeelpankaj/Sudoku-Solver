@@ -525,7 +525,7 @@ export default function SudokuSolver() {
         </div>
 
         <footer className="mt-8 text-center text-sm text-gray-500">
-          Built with React & TypeScript • Backtracking algorithm visualization
+          Built with Next.Js • Backtracking algorithm visualization
         </footer>
       </div>
     </div>
